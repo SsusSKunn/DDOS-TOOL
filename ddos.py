@@ -13,8 +13,8 @@ import urllib.request
    | | | |_| |  _ < | | | |___| |___  | |_| | |_| | |_| |___) |  \ V /| |
    |_|  \___/|_| \_\|_| |_____|_____| |____/|____/ \___/|____/    \_/ |_|
    						    __________________
-                                                   | creator : XIORXA/SsusSKun |__________________
-						   | BU SCRİPT XIORXA TARAFINDAN KODLANIP SsusSKun tarafından geliştirildi |
+                                                   | creator : SsusSKun |__________________
+						   | BU SCRİPT SsusSKun TARAFINDAN KODLANMIŞTIR |
 						   |_iyi kullanımlar__yasal sorumluluk reddi_________________________________|
 """
 ip = sys.argv[1]
@@ -165,7 +165,7 @@ def bot(host):
     
 def usage():
     print("----------------------")
-    print("python3 xıorxa/ssusskun.py (site)")
+    print("python3 SsusSKun.py (site)")
     print("----------------------")
 
 def main():
