@@ -14,7 +14,7 @@ import urllib.request
    |_|  \___/|_| \_\|_| |_____|_____| |____/|____/ \___/|____/    \_/ |_|
    						    __________________
                                                    | creator : SsusSKun |__________________
-						   | BU SCRİPT SsusSKun TARAFINDAN KODLANMIŞTIR |
+						   | BU SCRİPT SsusSKun TARAFAFINDAN KODLANMIŞTIR |
 						   |_iyi kullanımlar__yasal sorumluluk reddi_________________________________|
 """
 ip = sys.argv[1]
